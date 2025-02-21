@@ -1,0 +1,28 @@
+Layouts de Páginas ou Mini projetos:
+
+• Codepen
+• UpLabs
+• Behance
+• Niice
+• Dribble
+• Pinterest
+
+Ícones:
+• Pixabay
+• FontAwesome
+• Flaticon
+
+Paletas de cores:
+• Color Hunt
+• Adobe Color CC
+• Coolors
+• Web Gradients
+
+Fontes:
+• Adobe Fonts
+• Google Fonts
+
+Deploy de Aplicações:
+• Hostinger
+• GitHub Pages
+• Vercel
